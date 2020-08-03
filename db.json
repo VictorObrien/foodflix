@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 0,
+            "nome": "Burguers",
+            "descricao": "Aqui você vai aprender as melhores receitas de burguers",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": 1,
+            "nome": "Massas",
+            "descricao": "Aqui você vai aprender as melhores receitas de Massas",
+            "cor": "#00C86F"
+        }
+    ]
+}
