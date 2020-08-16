@@ -1,16 +1,204 @@
 {
-    "categorias": [
-        {
-            "id": 0,
-            "nome": "Burguers",
-            "descricao": "Aqui você vai aprender as melhores receitas de burguers",
-            "cor": "#6BD1FF"
-        },
-        {
-            "id": 1,
-            "nome": "Massas",
-            "descricao": "Aqui você vai aprender as melhores receitas de Massas",
-            "cor": "#00C86F"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Burguers",
+      "descricao": "Aqui você vai aprender as melhores receitas de burguers",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "titulo": "Massas",
+      "descricao": "Aqui você vai aprender as melhores receitas de Massas",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "titulo": "Regional",
+      "descricao": "Aqui você vai aprender as melhores receitas de comidas regionais",
+      "cor": "orange"
+    },
+    {
+      "id": 4,
+      "titulo": "Confeitaria",
+      "descricao": "Aqui você vai aprender as melhores receitas de Confeitaria",
+      "cor": "red"
+    },
+    {
+      "id": 5,
+      "titulo": "Sushi",
+      "descricao": "Aqui você vai aprender as melhores receitas de Sushi",
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Burger na Churrasqueira – Como fazer seu blend | Netão! Bom Beef",
+      "url": "https://www.youtube.com/watch?v=Kc154K3BrCs&t=2s"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Aula 20 / Burguer (Como fazer Hambúrguer) - Cansei de Ser Chef",
+      "url": "https://www.youtube.com/watch?v=Y__6RGqhCRE"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Aula 20.2 / Burguer 2 (Como fazer Hambúrguer) - Cansei de Ser Chef",
+      "url": "https://www.youtube.com/watch?v=nfiAbU-C3XM"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "DOUBLE Smash Burger! | Netão! Bom Beef",
+      "url": "https://www.youtube.com/watch?v=ZD5WZe5YeEw"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Hamburguer Simples e Bem Feito | Cozinha Básica",
+      "url": "https://www.youtube.com/watch?v=2gd240qgBFY"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Como Fazer Hamburguer sem frescura - com Paulo Yoller",
+      "url": "https://www.youtube.com/watch?v=M1ZYZn3FBDg"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Como Fazer Hamburguer De Frango",
+      "url": "https://www.youtube.com/watch?v=2vXFV3iIb2k"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Como Fazer Hamburguer Caseiro | Receita Muito Fácil",
+      "url": "https://www.youtube.com/watch?v=BmE7_gEBHz8"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "COMO FAZER MASSA FRESCA - Receita de massa de macarrão",
+      "url": "https://www.youtube.com/watch?v=sO1XZ1FhSQ8"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "A Melhor Receita De Panqueca Que Você Já Viu | Massa Básica | Gabriel Freitas",
+      "url": "https://www.youtube.com/watch?v=hBGqcogtJ1w&t=582s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Macarrão à Carbonara | Mohamad Hindi",
+      "url": "https://www.youtube.com/watch?v=qZnSb3KTlAk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Lasanha | Especial dia das mães",
+      "url": "https://www.youtube.com/watch?v=dAWZvYmp-vg"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Macarrão com camarão ao molho rosé | Rita Lobo | Cozinha Prática",
+      "url": "https://www.youtube.com/watch?v=3a1-aXhKQ5Y"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Baião de Dois (como fazer o tradicional baião de dois)",
+      "url": "https://www.youtube.com/watch?v=j6smciO94mg"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Como fazer Carne de Sol / Como fazer Manteiga de Garrafa",
+      "url": "https://www.youtube.com/watch?v=6hK8iyCElvo"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Feijão tropeiro | Rodrigo Hilbert | Tempero de Família",
+      "url": "https://www.youtube.com/watch?v=c9HUne_dk3E"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Vatapá Paraense | Rodrigo Hilbert | Tempero de Família",
+      "url": "https://www.youtube.com/watch?v=ytdZzIRskRw"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "10 Utencílios Essenciais Pra Sua Cozinha (Confeitaria) | Saindo Do Forno | Dani Noce",
+      "url": "https://www.youtube.com/watch?v=nZQDoZZZJtU"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Como Alisar Bolos de Chantily / Chantininho Para Iniciantes - TECNICA PERFEITA",
+      "url": "https://www.youtube.com/watch?v=KQuQ6Gljkio"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Creme De Confeiteiro (pâtissière) | Cozinha Básica",
+      "url": "https://www.youtube.com/watch?v=Ng8dVY6M0E0"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Torta De Leite Ninho e Negresco",
+      "url": "https://www.youtube.com/watch?v=Qj_fvx4nq-Q"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Bolo Bombom De Chocolate e Maracujá",
+      "url": "https://www.youtube.com/watch?v=hBG0FSXrPMg"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Como Fazer Sushi Em Casa Na Quarentena | Nandu Andrade",
+      "url": "https://www.youtube.com/watch?v=q87zeOwaRcY"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "3 Tipos De Sushi | Em São Paulo",
+      "url": "https://www.youtube.com/watch?v=s9Hg62ONMRI"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Sashimi De Salmão Do Zero | Como Fazer Sushi | Com a Fê",
+      "url": "https://www.youtube.com/watch?v=J4XMm2bD8I0"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Como Fazer Nigiri De Salmão",
+      "url": "https://www.youtube.com/watch?v=OSibfAa-4k4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Como Fazer Arroz De Sushi ou Shari | 3 Tipos de Sushi",
+      "url": "https://www.youtube.com/watch?v=XVZGatl7DBA"
+    },
+    {
+      "titulo": "Chantininho estabilizado da val",
+      "url": "https://www.youtube.com/watch?v=qXd6uYbRRJg",
+      "categoriaId": 4,
+      "id": 28
+    }
+  ]
 }

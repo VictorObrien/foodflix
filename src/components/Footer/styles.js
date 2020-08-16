@@ -14,4 +14,8 @@ const FooterBase = styled.footer`
   }
 `;
 
+export const ImageFooter = styled.img`
+  max-width: 200px
+`;
+
 export default FooterBase;
