@@ -3,7 +3,7 @@ import { useHistory } from 'react-router-dom';
 
 import json from '../../../../data/watch.json';
 
-import { VideoCardContainer, VideoCardBanner } from './styles';
+import { VideoCardContainer } from './styles';
 
 function getYouTubeId(youtubeURL) {
   return youtubeURL
@@ -37,11 +37,7 @@ function VideoCard({ videoTitle, videoURL, categoryColor }) {
       style={{ borderColor: categoryColor || 'red' }}
       title={videoTitle}
     >
-      <VideoCardBanner>
-
-        {videoTitle}
-
-      </VideoCardBanner>
+      <span style={{ color: categoryColor || 'white' }}>{videoTitle}</span>
     </VideoCardContainer>
   );
 }
