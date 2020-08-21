@@ -30,19 +30,23 @@ Este projeto foi desenvolvido na Imersão React da Alura. Trata-se de uma aplica
 <p align="center">
   <img src=".github/home.png" />
 </p>
-Nesse projeto eu realizei alguns desafios adicionais como:  
-<strong> - Página 404</strong>
+Nesse projeto eu realizei alguns desafios adicionais como:
+<br/> 
+<h4><strong> - Página 404</strong></h4>
 <p align="center">
   <img src=".github/notFound.png" />
 </p>
-<strong> - Reprodução dos Vídeos na aplicação</strong>
+<br/> 
+<h4><strong> - Reprodução dos Vídeos na aplicação</strong></h4>
 <p align="center">
   <img src=".github/reproducao.png" />
 </p>
-<strong> - Título do vídeo ao passar o mouse sobre</strong>
+<br/> 
+<h4><strong> - Título do vídeo ao passar o mouse sobre</strong></h4>
 <p align="center">
   <img src=".github/hover.png" />
 </p>
+<br/> 
 
 Resultado disponível em [foodflix-tau.vercel.app](https://foodflix-tau.vercel.app).
 
@@ -100,5 +104,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 por <a href="://www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/" target="_blank">Paulo Victor Rebouças Pereira</a>
-</h4>https
+    Feito com 💜 por <a href="www.linkedin.com/in/paulo-victor-rebou%C3%A7as-pereira-a6a72aa8/" target="_blank">Paulo Victor Rebouças Pereira</a>
+</h4>
